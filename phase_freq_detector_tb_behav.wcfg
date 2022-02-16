@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="phase_freq_detector_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="phase_freq_detector_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="168.401 ns"></ZoomEndTime>
+      <Cursor1Time time="24.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="120"></NameColumnWidth>
+      <ValueColumnWidth column_width="69"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="5" />
+   <wvobject fp_name="/phase_freq_detector_tb/PFD0/A" type="logic">
+      <obj_property name="ElementShortName">A</obj_property>
+      <obj_property name="ObjectShortName">A</obj_property>
+      <obj_property name="CustomSignalColor">#E0FFFF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/phase_freq_detector_tb/PFD0/B" type="logic">
+      <obj_property name="ElementShortName">B</obj_property>
+      <obj_property name="ObjectShortName">B</obj_property>
+   </wvobject>
+   <wvobject fp_name="/phase_freq_detector_tb/PFD0/Qa" type="logic">
+      <obj_property name="ElementShortName">Qa</obj_property>
+      <obj_property name="ObjectShortName">Qa</obj_property>
+      <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/phase_freq_detector_tb/PFD0/Qb" type="logic">
+      <obj_property name="ElementShortName">Qb</obj_property>
+      <obj_property name="ObjectShortName">Qb</obj_property>
+      <obj_property name="CustomSignalColor">#00FF7F</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/phase_freq_detector_tb/PFD0/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+</wave_config>
